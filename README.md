@@ -1,2 +1,3 @@
 # Master-SQL
-SQL problems and solutions from basics to advanced for learning and interview prep.
+A collection of SQL problems and solutions organized by topic.  
+Covers everything from basics to advanced queries including joins, aggregations, subqueries, and window functions.  
